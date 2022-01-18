@@ -1,0 +1,18 @@
+p {
+  background-color: #1122;
+  border: 1px solid red;
+  padding: 1em;
+}
+a{
+  text-decoration:none;
+}
+a:link{
+  color:black;
+}
+a:visited{
+  color:brown;
+}
+a:hover{
+  color:yellow;
+  background-color:black;
+}
